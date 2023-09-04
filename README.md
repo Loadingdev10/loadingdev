@@ -1,2 +1,0 @@
-# loadingdev
-FFA-script!
